@@ -1,6 +1,6 @@
 ★For solving this Task I have try to create one sweet and simple Voice Assistant named as ⚡Vaani⚡ that has an capability to Control Linux Server or to help someone in following ways :
 
-⚡Basic Linux Commands Can Access by Voice
+⚡Linux Commands Can Access by Voice
 
 ⚡Linux CLI
 
